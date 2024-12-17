@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Documentation de l'API</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        color: #333;
+      }
+
+      h1,
+      h2 {
+        color: #333;
+        border-bottom: 2px solid #d6336c;
+        padding-bottom: 5px;
+      }
+
+      h1 {
+        font-size: 2em;
+        margin-top: 0;
+      }
+
+      h2 {
+        font-size: 1.5em;
+        margin-top: 20px;
+      }
+
+      p {
+        font-size: 1em;
+        margin-top: 10px;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 0;
+      }
+
+      ul li {
+        margin-bottom: 10px;
+      }
+
+      pre {
+        background-color: #f4f4f4;
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        overflow-x: auto;
+      }
+
+      code {
+        color: #d6336c;
+        font-weight: bold;
+      }
+
+      a {
+        color: #d6336c;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Documentation de l'API</h1>
+    <p>
+      Bienvenue dans la documentation de l'API. Cette API permet de gérer des
+      équipes et des joueurs, et expose différentes routes pour accéder aux
+      informations et les manipuler.
+    </p>
+
+    <h2>Adresse complète de l'API</h2>
+    <p>L'adresse complète de l'API est :</p>
+    <pre><code>https://mcaparros.alwaysdata.net/s5/api/v1</code></pre>
+
+    <h2>Tables disponibles</h2>
+    <ul>
+      <li>
+        <strong>Équipe</strong> : Contient le nom de l'équipe et des
+        statistiques associées.
+      </li>
+      <li>
+        <strong>Joueur</strong> : Contient le nom du joueur et des statistiques
+        associées.
+      </li>
+    </ul>
+
+    <h2>Routes pour la gestion des équipes</h2>
+    <ul>
+      <li>
+        <code>GET /api/v1/equipe</code> - Récupère la liste de toutes les
+        équipes.
+      </li>
+      <li>
+        <code>GET /api/v1/equipe/{id}</code> - Récupère les détails d'une équipe
+        spécifique par son ID.
+      </li>
+      <li><code>POST /api/v1/equipe</code> - Crée une nouvelle équipe.</li>
+      <li>
+        <code>PUT /api/v1/equipe/{id}</code> - Met à jour les informations d'une
+        équipe existante par son ID.
+      </li>
+      <li>
+        <code>DELETE /api/v1/equipe/{id}</code> - Supprime une équipe par son
+        ID.
+      </li>
+    </ul>
+
+    <h2>Routes pour la gestion des joueurs</h2>
+    <ul>
+      <li>
+        <code>GET /api/v1/joueur</code> - Récupère la liste de tous les joueurs.
+      </li>
+      <li>
+        <code>GET /api/v1/joueur/{id}</code> - Récupère les joueurs associés à
+        une équipe spécifique par l'ID de l'équipe.
+      </li>
+      <li>
+        <code>GET /api/v1/joueursolo/{id}</code> - Récupère les détails d'un
+        joueur spécifique par son ID.
+      </li>
+      <li><code>POST /api/v1/joueur</code> - Crée un nouveau joueur.</li>
+      <li>
+        <code>PATCH /api/v1/joueur/{id}</code> - Met à jour les informations
+        d'un joueur existant par son ID.
+      </li>
+      <li>
+        <code>DELETE /api/v1/joueur/{id}</code> - Supprime un joueur par son ID.
+      </li>
+    </ul>
+  </body>
+</html>

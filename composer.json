@@ -1,0 +1,24 @@
+{
+  "require": {
+    "twig/twig": "^3.4",
+    "nikic/fast-route": "^1.3",
+    "katzgrau/klogger": "dev-master",
+    "tracy/tracy": "^2.10"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  },
+  "scripts": {
+    "serve": [
+      "Composer\\Config::disableProcessTimeout",
+      "@clear-log",
+      "php -S localhost:8000 -t public"
+    ],
+    "clear-log": [
+      "php -r \"array_map('unlink', array_filter((array) glob('src/Storage/logs/*')));\""
+    ]
+  }
+}

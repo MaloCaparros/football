@@ -1,0 +1,156 @@
+[2024-11-06 18-11-56] 404 - commande non existante :: /api/v1/book  @  http://localhost:8000/api/v1/book 
+[2024-11-06 19-45-21] 404 - commande non existante :: /api/v1/joueur/teamId=1  @  http://localhost:8000/api/v1/joueur/teamId=1 
+[2024-11-06 19-45-34] 404 - commande non existante :: /api/v1/joueur/equipe_id=1  @  http://localhost:8000/api/v1/joueur/equipe_id=1 
+[2024-11-06 19-46-57] 404 - commande non existante :: /api/v1/joueur/  @  http://localhost:8000/api/v1/joueur/ 
+[2024-11-06 19-47-41] 404 - commande non existante :: /api/v1/joueur/  @  http://localhost:8000/api/v1/joueur/?team_id=1 
+[2024-11-06 19-47-53] 404 - commande non existante :: /api/v1/joueur/  @  http://localhost:8000/api/v1/joueur/?equipe_id=1 
+[2024-11-06 19-50-09] 404 - commande non existante :: /api/v1/joueur/  @  http://localhost:8000/api/v1/joueur/?id=1 
+[2024-11-06 19-51-28] 404 - commande non existante :: /api/v1/joueur/{id: undefined}  @  http://localhost:8000/api/v1/joueur/%7Bid:%20undefined%7D 
+[2024-11-06 19-52-26] 404 - commande non existante :: /api/v1/joueur/1}  @  http://localhost:8000/api/v1/joueur/1%7D 
+[2024-11-06 19-52-30] 404 - commande non existante :: /api/v1/joueur/1}  @  http://localhost:8000/api/v1/joueur/1%7D 
+[2024-11-06 19-55-32] 404 - commande non existante :: /api/v1/joueur/undefined  @  http://localhost:8000/api/v1/joueur/undefined 
+[2024-11-06 19-55-54] 404 - commande non existante :: /api/v1/joueur/undefined  @  http://localhost:8000/api/v1/joueur/undefined 
+[2024-11-06 19-56-30] 404 - commande non existante :: /api/v1/joueur/undefined  @  http://localhost:8000/api/v1/joueur/undefined 
+[2024-11-06 19-56-35] 404 - commande non existante :: /api/v1/joueur/undefined  @  http://localhost:8000/api/v1/joueur/undefined 
+[2024-11-06 19-57-10] 404 - commande non existante :: /api/v1/joueur/undefined  @  http://localhost:8000/api/v1/joueur/undefined 
+[2024-11-06 19-57-59] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-02-31] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-02-48] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-04-09] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-05-01] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-11-50] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-12-35] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-13-21] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-13-24] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-14-15] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-16-00] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-16-12] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-16-21] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-16-34] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-16-43] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-16-49] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-16-56] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-17-33] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-17-45] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-19-15] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-19-32] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-20-00] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-20-44] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-21-09] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-09 17-23-36] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-10 21-13-25] 404 - erreur dans le processus de traitement du routage  @  http://localhost:8000/api/v1/equipe 
+[2024-11-10 21-14-13] 404 - erreur dans le processus de traitement du routage  @  http://localhost:8000/api/v1/equipe 
+[2024-11-10 21-14-17] 404 - erreur dans le processus de traitement du routage  @  http://localhost:8000/api/v1/equipe 
+[2024-11-11 00-11-05] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-11-18] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-13-53] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 00-17-51] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 00-17-54] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 00-18-15] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 00-18-15] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-18-25] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 00-18-25] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-18-32] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 00-18-32] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-19-09] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-21-13] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-22-06] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-22-30] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-22-36] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-24-49] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-25-17] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-31-03] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-32-40] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-32-48] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-33-11] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 00-33-47] 404 - commande non existante :: /api/v1/equipe/null  @  http://localhost:8000/api/v1/equipe/null 
+[2024-11-11 11-40-04] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 11-40-18] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 11-40-39] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 11-40-59] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 11-41-39] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 11-41-50] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 11-45-25] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 12-20-43] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 12-21-03] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 13-05-36] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 13-05-43] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 13-05-59] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 13-06-53] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 13-07-31] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 13-07-41] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 13-07-49] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-11 17-14-24] 404 - commande non existante :: /api/v1/equipe/undefined  @  http://localhost:8000/api/v1/equipe/undefined 
+[2024-11-11 17-15-38] 404 - commande non existante :: /api/v1/equipe/undefined  @  http://localhost:8000/api/v1/equipe/undefined 
+[2024-11-11 17-15-41] 404 - commande non existante :: /api/v1/equipe/undefined  @  http://localhost:8000/api/v1/equipe/undefined 
+[2024-11-11 17-47-12] 404 - commande non existante :: /api/v1/equipe/undefined  @  http://localhost:8000/api/v1/equipe/undefined 
+[2024-11-11 17-48-22] 404 - commande non existante :: /api/v1/equipe/undefined  @  http://localhost:8000/api/v1/equipe/undefined 
+[2024-11-11 17-49-35] 404 - commande non existante :: /api/v1/equipe/undefined  @  http://localhost:8000/api/v1/equipe/undefined 
+[2024-11-11 18-02-06] 404 - commande non existante :: /api/v1/equipe/undefined  @  http://localhost:8000/api/v1/equipe/undefined 
+[2024-11-12 19-18-17] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-18-38] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-19-05] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-20-12] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-21-26] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-22-41] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-22-50] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-24-33] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-25-21] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-25-44] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-26-41] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-26-44] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-27-25] 404 - commande non existante :: /api/v1/joueur/null  @  http://localhost:8000/api/v1/joueur/null 
+[2024-11-12 19-32-07] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-32-07] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-32-07] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/12 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/11 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/11 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/12 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/11 
+[2024-11-12 19-32-08] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/12 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-32-59] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-36-09] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/8 
+[2024-11-12 19-36-30] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-30] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-30] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-30] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-30] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 19-36-30] 405 - méthode incorrecte :: Array  @  http://localhost:8000/api/v1/joueur/9 
+[2024-11-12 20-39-49] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-12 20-45-24] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-12 20-46-43] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-12 20-46-58] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-12 20-47-01] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-12 20-47-26] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-12 20-48-01] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-12 20-49-28] 404 - commande non existante :: /equipe  @  https://mcaparros.alwaysdata.net/s5/api/v1/equipe 
+[2024-11-12 20-49-49] 404 - commande non existante :: //api/v1/joueur  @  https://mcaparros.alwaysdata.net/s5/api/v1//api/v1/joueur 
+[2024-11-13 21-44-26] 404 - commande non existante :: /api/v1/equipe/null  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/equipe/null 
+[2024-11-13 21-44-32] 404 - commande non existante :: /api/v1/equipe/null  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/equipe/null 
+[2024-11-14 16-57-31] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-14 17-00-37] 404 - commande non existante :: /  @  https://mcaparros.alwaysdata.net/s5/api/v1/ 
+[2024-11-14 17-29-00] 404 - commande non existante :: /api/v1/equipe/  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/equipe/ 
+[2024-11-14 17-29-00] 404 - commande non existante :: /api/v1/equipe/undefined  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/equipe/undefined 
+[2024-11-14 17-29-00] 404 - commande non existante :: /api/v1/joueur/  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/joueur/ 
+[2024-11-14 17-29-49] 404 - commande non existante :: /api/v1/equipe/  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/equipe/ 
+[2024-11-14 17-29-49] 404 - commande non existante :: /api/v1/equipe/undefined  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/equipe/undefined 
+[2024-11-14 17-29-49] 404 - commande non existante :: /api/v1/joueur/  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/joueur/ 
+[2024-11-14 18-23-47] 404 - commande non existante :: /api/v1/equipe/null  @  https://mcaparros.alwaysdata.net/s5/api/v1/api/v1/equipe/null 
